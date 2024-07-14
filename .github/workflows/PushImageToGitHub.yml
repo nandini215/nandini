@@ -20,5 +20,5 @@ jobs:
         with:
           context: DockerFileFolder/
           push: true
-          tags: rekhugopal/testrepo:latest
+          tags: nandini215/dockerfile:latest
           
